@@ -1,0 +1,13 @@
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\bin\Debug\netcoreapp3.1\RestaurantSystem.deps.json
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\bin\Debug\netcoreapp3.1\RestaurantSystem.dll
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\bin\Debug\netcoreapp3.1\RestaurantSystem.pdb
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\bin\Debug\netcoreapp3.1\MainPart.dll
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\bin\Debug\netcoreapp3.1\MainPart.pdb
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\obj\Debug\netcoreapp3.1\RestaurantSystem.csproj.AssemblyReference.cache
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\obj\Debug\netcoreapp3.1\RestaurantSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\obj\Debug\netcoreapp3.1\RestaurantSystem.AssemblyInfoInputs.cache
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\obj\Debug\netcoreapp3.1\RestaurantSystem.AssemblyInfo.cs
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\obj\Debug\netcoreapp3.1\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\obj\Debug\netcoreapp3.1\RestaurantSystem.csproj.CopyComplete
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\obj\Debug\netcoreapp3.1\RestaurantSystem.dll
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\System\obj\Debug\netcoreapp3.1\RestaurantSystem.pdb

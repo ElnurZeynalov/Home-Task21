@@ -1,0 +1,10 @@
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\MainPart\bin\Debug\netcoreapp3.1\MainPart.deps.json
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\MainPart\bin\Debug\netcoreapp3.1\MainPart.dll
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\MainPart\bin\Debug\netcoreapp3.1\MainPart.pdb
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\MainPart\obj\Debug\netcoreapp3.1\MainPart.csproj.AssemblyReference.cache
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\MainPart\obj\Debug\netcoreapp3.1\MainPart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\MainPart\obj\Debug\netcoreapp3.1\MainPart.AssemblyInfoInputs.cache
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\MainPart\obj\Debug\netcoreapp3.1\MainPart.AssemblyInfo.cs
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\MainPart\obj\Debug\netcoreapp3.1\MainPart.csproj.CoreCompileInputs.cache
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\MainPart\obj\Debug\netcoreapp3.1\MainPart.dll
+C:\Users\ELNUR\Desktop\Home Task\Home Task21\ConsoleApp1\MainPart\obj\Debug\netcoreapp3.1\MainPart.pdb

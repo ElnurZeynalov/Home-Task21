@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pzj3NRjMH+pAsxGxK+60zilcTdTijgy5s/dwtylyZo1PVFhnGA6VCA84pEn1gUYNLSegeAMQT2zxPKfBwEYF7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ELNUR\\Desktop\\Home Task\\Home Task21\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ELNUR\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ELNUR\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ELNUR\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\ELNUR\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
